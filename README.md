@@ -1,4 +1,4 @@
-# decimalToBinaryFromBen README
+# README
 
 ## Features
 
